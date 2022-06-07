@@ -41,6 +41,6 @@ workflows:
           filters:
             branches:
               only:
-                - main
+                - master
     jobs:
       - musicbox
